@@ -1,4 +1,4 @@
-# Hi there, I'm Ignacio Núñez Mayné 👋
+# Hi there, I'm Ignacio Núñez 👋
 
 ### Computer Engineering Student @ PUCV | Software Developer | Cybersecurity Enthusiast
 
