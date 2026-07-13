@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I build AI agents for security operations — auto
 * 🎲 When I'm not coding or setting up high-performance LLM clusters, you can find me rolling dice in Dungeons & Dragons, exploring mixology, or playing videogames.
 
 ### 🛡️ Featured Project
-* **[soc-triage-agent](https://github.com/Nachitzu/ai-soc-triage-agent](https://github.com/Nachitzu/soc-triage-agent)** — An AI-powered SOC Tier 1 triage agent: ingests SIEM alerts, classifies severity, flags false positives, maps behavior to MITRE ATT&CK, and generates Tier 2-ready summaries. Built with Claude (Anthropic SDK), Pydantic-validated outputs, and a hard safety rule: **real attacks are never auto-closed**. Includes prompt-injection guardrails — alert data is treated as hostile input, never as instructions.
+* **[soc-triage-agent](https://github.com/Nachitzu/soc-triage-agent)** — An AI-powered SOC Tier 1 triage agent: ingests SIEM alerts, classifies severity, flags false positives, maps behavior to MITRE ATT&CK, and generates Tier 2-ready summaries. Built with Claude (Anthropic SDK), Pydantic-validated outputs, and a hard safety rule: **real attacks are never auto-closed**. Includes prompt-injection guardrails — alert data is treated as hostile input, never as instructions.
 
 ### 🔭 Currently Building — Agentic SOC Series
 * **IOC Extraction Agent** — hybrid regex + LLM pipeline that reads threat intelligence reports and extracts indicators of compromise into structured **STIX 2.1** output.
