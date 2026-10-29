@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I build AI agents for security operations — auto
 * 🎓 Computer Engineering graduate from Pontificia Universidad Católica de Valparaíso (PUCV) — thesis on a **federated learning framework for digital forensics** (differential privacy + blockchain chain of custody).
 * 🏆 **First Place Winner** at the Cybersummit 2025 CTF in USM.
 * 🛡️ Focused on **Blue Team operations**, **AI agent architecture**, and **LLM security** (prompt injection defense, agent red-teaming).
-* 📜 Currently preparing for **CompTIA Security+ (SY0-701)**.
+* 📜 Certificate **CompTIA Security+ (SY0-701)**.
 * 🏗️ Strong advocate for clean code — Hexagonal Architecture — and permissive open-source development (MIT/Apache 2.0).
 * 🚀 CIO and developer of [Conectaterapeuta.cl](https://conectaterapeuta.cl), a platform connecting people with wellness therapies.
 * 🎲 When I'm not coding or setting up high-performance LLM clusters, you can find me rolling dice in Dungeons & Dragons, exploring mixology, or playing videogames.
